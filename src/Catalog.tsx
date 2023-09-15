@@ -1,0 +1,1 @@
+This file contains the implementation of the catalog screen component. It fetches the list of NFT robots from the backend API and displays them in a grid or list format.

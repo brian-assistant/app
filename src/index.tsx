@@ -1,0 +1,1 @@
+This file initializes and renders the root component of the application.
