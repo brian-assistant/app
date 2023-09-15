@@ -1,0 +1,1 @@
+This file is the entry point of the application. It sets up the routes for the catalog and robot details screens.

@@ -1,0 +1,1 @@
+This file contains the implementation of the robot details screen component. It fetches the details of a single robot from the backend API and displays them in a detailed view.
